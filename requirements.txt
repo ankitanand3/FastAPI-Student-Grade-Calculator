@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+
+
+# uv pip install -r requirements.txt
+
+
